@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/PalaniRahulDravid/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/PalaniRahulDravid/dsa/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/PalaniRahulDravid/dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/PalaniRahulDravid/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/PalaniRahulDravid/dsa/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/PalaniRahulDravid/dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/PalaniRahulDravid/dsa/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
