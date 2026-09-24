@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PalaniRahulDravid/dsa/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/PalaniRahulDravid/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalaniRahulDravid/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PalaniRahulDravid/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalaniRahulDravid/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -57,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PalaniRahulDravid/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalaniRahulDravid/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
